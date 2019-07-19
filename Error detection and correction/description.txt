@@ -1,0 +1,4 @@
+Implementation of error detection and correction technique using 
+hamming code.
+
+connection used between client and server:TCP
