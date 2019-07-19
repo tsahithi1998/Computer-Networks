@@ -1,1 +1,5 @@
 cyclic redundancy check using client server (tcp)
+
+
+the data that is sent by the client will be converted into bits and these bits are transferred the server and server will check iff errors present in the data
+using crc
