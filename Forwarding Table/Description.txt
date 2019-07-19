@@ -1,0 +1,17 @@
+the program will display the forwarding table
+
+Example:
+
+input:  
+200.10.30.12/26
+
+output:
+11000000
+ip address belong to class: C
+no of subnets: 4
+no of hosts: 64
+broadcast address: 255.255.255.255
+subnet mask: 255.255.255.192
+first host address: 200.10.30.1
+last host address: 200.10.30.62
+subnet address: 200.10.30.0
